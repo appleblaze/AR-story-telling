@@ -6,7 +6,7 @@ The demo of the application has been attached in this repository and so are the 
 
 This project is created for AR/VR subject offered as an electve in 5th semester of KJSCE. 
 
-Creators:
+*Creators:*
 
 Prachi Randeria
 
